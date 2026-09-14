@@ -15,7 +15,7 @@ Dense feature correspondence transfers directly from stylized animation assets t
 
 | Wheel Selection & Correspondence | Windshield / Roof Selection |
 | :---: | :---: |
-| ![Wheel Match](assets/wheel_match.jpg) | ![Window Match](assets/window_match.jpg) |
+| ![Wheel Match](assets/wheel_match.png) | ![Window Match](assets/window_match.png) |
 
 ---
 
@@ -24,7 +24,7 @@ Semantic feature alignment across distinct dog breeds, varying scales, dynamic p
 
 | Ocular Keypoint Transfer (Eyes) | Muzzle / Tongue Alignment |
 | :---: | :---: |
-| ![Eyes Match](assets/eyes_match.jpg) | ![Tongue Match](assets/tongue_match.jpg) |
+| ![Eyes Match](assets/eyes_match.png) | ![Tongue Match](assets/tongue_match.png) |
 
 ---
 
